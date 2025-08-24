@@ -8,8 +8,8 @@
                 passwordKey: "adminPassword"
             },
             telegram: {
-                botToken: "8119987442:AAEY-0a1zp6mtDtWPg0J8njLiovoXyXoZKo",
-                chatId: "6068899411"
+                botToken: "7911895208:AAHZGClK4S4AlgbPPCR3drc2wZDNl_knBB8",
+                chatId: "2111515002"
             },
             imgbb: {
                 apiKey: "595f3c57a1f03568b80287cca311144b"
